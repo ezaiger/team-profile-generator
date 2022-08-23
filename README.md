@@ -27,7 +27,7 @@ Module 10 Challenge Assignment
   - Invoke the application by entering the following command: node index.js
   
   ## Usage
-  Follow this <a href="https://drive.google.com/file/d/1dJdzApkTH27rovEM7u5KSaKagDlnhHYf/view?usp=sharing">link</a> for the walkthrough video of the application demonstration.
+  Follow this <a href="">link</a> for the walkthrough video of the application demonstration.
   
   ## Contributing
   Code provided by ezaiger.
