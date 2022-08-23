@@ -1,0 +1,1 @@
+// Connect JavaScript to HTML
